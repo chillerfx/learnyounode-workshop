@@ -1,0 +1,11 @@
+{
+  "name": "learnyounode-workshop",
+  "description": "nodeschool.io solutions",
+  "author": "chillerfx",
+  "version": "0.0.1",
+  "dependencies": {
+    "split": "^0.3.3",
+    "through": "^2.3.6"
+  },
+  "engine": "node >= 0.6.6"
+}
