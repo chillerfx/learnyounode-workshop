@@ -1,1 +1,1 @@
-this is repository for learnyounode wokshop
+this is repository for learnyounode workshop
