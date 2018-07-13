@@ -1,1 +1,1 @@
-this is repository for learnyounode workshop
+Repository for learnyounode workshop solutions.
